@@ -131,7 +131,7 @@ const config: Config = {
             },
             {
               label: 'TEACH 4',
-              href: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+              href: 'https://www.helmholtz-hida.de/en/events/teach-4-live/',
             },
           ],
         },
